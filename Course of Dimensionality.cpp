@@ -1,3 +1,5 @@
+////////https://replit.com/@Carlos_Gabriel1/eda1#main.cpp 
+
 #include <iostream>
 #include <stdlib.h>
 #include <random>
