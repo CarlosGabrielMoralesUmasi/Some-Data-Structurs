@@ -1,0 +1,7 @@
+﻿  quadtree.cpp
+C:\Users\Carlos\source\repos\quadtree\quadtree\quadtree.cpp(25,20): warning C4244: 'inicializando': conversión de '_Rep' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  quadtree.vcxproj -> C:\Users\Carlos\source\repos\quadtree\Debug\quadtree.exe
